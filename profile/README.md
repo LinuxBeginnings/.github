@@ -5,7 +5,11 @@ Helping new Linux users get productive fast with working, reproducible configura
 ---
 
 ## What is this?
-A friendly starting point for curated, distro-specific configs with sensible defaults. Initial focus: Jakoolit’s Hyprland dotfiles.
+
+A friendly starting point for curated, distro-specific configs with sensible defaults. 
+
+## Initial focus: Jakoolit’s Hyprland dotfiles.
+  - These configuration files provide and easy to install and use Hyprland. 
 
 ### Supported distros (current focus)
 
