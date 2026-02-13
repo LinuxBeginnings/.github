@@ -34,7 +34,7 @@ A friendly starting point for curated, distro-specific configs with sensible def
 - Ubuntu 25.10 (branch 25.10): https://github.com/LinuxBeginnings/Ubuntu-Hyprland/tree/25.10
 
 ## Getting started
-- Pick your distro above and use the corresponding Hyprland dotfiles from Jakoolit.
+- Pick your distro above and use the corresponding Hyprland dotfiles.
 - Follow the distro’s README/installation notes in those repositories.
 - Come back here for new additions as we expand beyond Hyprland.
 
