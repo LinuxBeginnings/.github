@@ -8,7 +8,9 @@ Helping new Linux users get productive fast with working, reproducible configura
 
 A friendly starting point for curated, distro-specific configs with sensible defaults. 
 
-## Initial focus: Jakoolit’s Hyprland dotfiles.
+## Initial focus: Jak-Community Edition dotfiles 
+  - Forked from [Jak's Dotfiles](https://github.com/Jakoolit) 
+  - Now maiuntained as a commuhity project.
   - These configuration files provide and easy to install and use Hyprland. 
 
 ### Supported distros (current focus)
