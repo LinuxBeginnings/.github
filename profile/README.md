@@ -25,13 +25,14 @@ A friendly starting point for curated, distro-specific configs with sensible def
 ---
 
 ## Get the dotfiles
-- Hyprland-Dots (overview): https://github.com/LinuxBeginnings/Hyprland-Dots
-- Arch: https://github.com/LinuxBeginnings/Arch-Hyprland
-- Debian: https://github.com/LinuxBeginnings/Debian-Hyprland
-- Fedora: https://github.com/LinuxBeginnings/Fedora-Hyprland
-- NixOS: https://github.com/LinuxBeginnings/NixOS-Hyprland
-- Ubuntu 24.04 (branch 24.04): https://github.com/LinuxBeginnings/Ubuntu-Hyprland/tree/24.04
-- Ubuntu 25.10 (branch 25.10): https://github.com/LinuxBeginnings/Ubuntu-Hyprland/tree/25.10
+- [Hyprland-Dots (overview)](https://github.com/LinuxBeginnings/Hyprland-Dots)
+- [Arch](https://github.com/LinuxBeginnings/Arch-Hyprland)
+- [Debian](https://github.com/LinuxBeginnings/Debian-Hyprland)
+- [Fedora](https://github.com/LinuxBeginnings/Fedora-Hyprland)
+- [NixOS](https://github.com/LinuxBeginnings/NixOS-Hyprland)
+- [Ubuntu 24.04 (branch 24.04)](https://github.com/LinuxBeginnings/Ubuntu-Hyprland/tree/24.04)
+- [Ubuntu 25.10 (branch 25.10)](https://github.com/LinuxBeginnings/Ubuntu-Hyprland/tree/25.10)
+
 
 ## Getting started
 - Pick your distro above and use the corresponding Hyprland dotfiles.
@@ -44,7 +45,7 @@ A friendly starting point for curated, distro-specific configs with sensible def
 
 ## Community
 - Contributions are welcome — PRs that improve clarity, add distro notes, or fix typos are appreciated.
-- [Discord Server:](https://discord.gg/RZJgC7KAKm)
+- [Discord Server](https://discord.gg/RZJgC7KAKm)
 
 ---
 
