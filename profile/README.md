@@ -10,8 +10,8 @@ A friendly starting point for curated, distro-specific configs with sensible def
 
 ## Initial focus: Jak-Community Edition dotfiles 
   - Forked from [Jak's Dotfiles](https://github.com/Jakoolit) 
-  - Now maintained as a commuhity project.
-  - These configuration files provide and easy to install and use Hyprland. 
+  - Now maintained as a community project.
+  - These configuration files provide an easy to install and use Hyprland. 
 
 ### Supported distros (current focus)
 
