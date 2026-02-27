@@ -8,7 +8,7 @@ Helping new Linux users get productive fast with working, reproducible configura
 
 A friendly starting point for curated, distro-specific configs with sensible defaults. 
 
-## Initial focus: Jak-Community Edition dotfiles 
+## Initial focus: KoolDots 
   - Forked from [Jak's Dotfiles](https://github.com/Jakoolit) 
   - Now maintained as a commuhity project.
   - These configuration files provide and easy to install and use Hyprland. 
