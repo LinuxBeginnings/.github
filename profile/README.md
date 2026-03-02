@@ -46,6 +46,8 @@ A friendly starting point for curated, distro-specific configs with sensible def
 ## Community
 - Contributions are welcome — PRs that improve clarity, add distro notes, or fix typos are appreciated.
 - [Discord Server](https://discord.gg/RZJgC7KAKm)
+- [YouTube Channel](https://www.youtube.com/@LinuxBeginnings)
+
 
 ---
 
