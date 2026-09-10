@@ -8,19 +8,30 @@ Helping new Linux users get productive fast with working, reproducible configura
 
 A friendly starting point for curated, distro-specific configs with sensible defaults. 
 
-## Initial focus: KoolDots 
+## New Project:  MangoWC-Dots 
+  - Still early in development 
+  - Simple installer 
+     - Installs MangoWC 
+     - Basic configuration 
+     - Noctalia v5.0 
+     - Currently only tested with Fedora 44+    
+
+## Main project: KoolDots 
   - Forked from [Jak's Dotfiles](https://github.com/Jakoolit) 
+  - Hyprland installer, and highly customized dotfiles
   - Now maintained as a community project.
   - These configuration files provide an easy to install and use Hyprland. 
 
-### Supported distros (current focus)
+
+     
+### KoolDots -- Supported distros (current focus)
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
-![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=white)
+
 
 ---
 
